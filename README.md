@@ -5,9 +5,9 @@ Welcome to Cinematic Vault, an interactive Streamlit application designed to cat
 ## Features
 
 ### Home
-- View All Cinematic Treasures: Browse through the entire collection of cinematic gems stored in the vault.
-- Cinematic Diversity: Visualize the diversity of films by language.
-- Cream of the Crop: Discover the top-rated movies in the vault.
+- **View All Cinematic Treasures**: Browse through the entire collection of cinematic gems stored in the vault.
+- **Cinematic Diversity**: Visualize the diversity of films by language.
+- **Cream of the Crop**: Discover the top-rated movies in the vault.
 
 ### Add Cinematic Gem
 - Add new movies to the vault with details like title, director, release year, language, rating, genre, runtime, box office, awards, cinematographer, soundtrack composer, critical reception, user reviews, cultural impact, and trivia.
