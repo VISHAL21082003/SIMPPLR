@@ -135,9 +135,9 @@ def calculate_cinematic_quotient(movie):
     return base_score + (year_factor * 5) + (impact_score * 10) + (awards_score * 2)
 
 # Streamlit app
-st.set_page_config(page_title="Cinematic Vault: A Treasure Trove of Global Cinema", layout="wide")
+st.set_page_config(page_title="Cinematic Vault: A Movie List Application", layout="wide")
 
-st.title("🎬 Cinematic Vault: A Treasure Trove of Global Cinema")
+st.title("🎬 Cinematic Vault: A Movie List Application")
 
 # Sidebar navigation
 page = st.sidebar.selectbox("Navigate", ["Home", "Add Cinematic Gem", "Discover Treasures", "Update Cinematic Gem", "Remove from Vault", "Cinematic Analysis"])
