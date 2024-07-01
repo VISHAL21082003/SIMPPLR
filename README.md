@@ -1,4 +1,4 @@
-# Cinematic Vault: A Treasure Trove of Global Cinema
+# Cinematic Vault: A Movie List Application
 
 Welcome to Cinematic Vault, an interactive Streamlit application designed to catalog and explore the gems of global cinema. With this app, you can add, update, delete, and analyze cinematic treasures from around the world.
 
@@ -64,10 +64,6 @@ The app uses SQLite to store the cinematic treasures. The database is automatica
 ## Helper Functions
 
 The app includes several helper functions for database operations and unique functionalities like generating movie DNA, finding cinematic soulmates, and calculating cinematic quotients.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributing
 
